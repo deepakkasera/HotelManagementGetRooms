@@ -20,4 +20,4 @@ Your task is to implement the following functionality in the system.
 * Refer the `GetRoomsRequestDto` and `GetRoomsResponseDto` classes for understanding the expected input and output to the functionality.
 * Refer the models package for reference of the models.
 * Implement the RoomRepository and RoomService interfaces to achieve the above requirements.
-* Please implement an in memory database to store the menu items. You can use any data structure of your choice to store the menu items.
+* Please implement an in memory database to store the rooms. You can use any data structure of your choice to store the rooms.
